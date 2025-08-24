@@ -22,8 +22,8 @@ This project helped me strengthen my **frontend skills**, practice **layout desi
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/spotify-landing-clone.git
-cd spotify-landing-clone
+git clone https://github.com/ShreyaM24/spotify_landingPage_clone.git
+cd spotify_landingPage_clone
 ````
 
 ### 2️⃣ Run the project
